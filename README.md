@@ -3,76 +3,66 @@
 ## Courses 
 
 ### Specialisation Certificate
-![Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZGBX3J92CXW6)
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZGBX3J92CXW6/CERTIFICATE_LANDING_PAGE~ZGBX3J92CXW6.jpeg)
 
 Concurrency In Golang
 ---------------------
 
 ### Assignments
 
-- **Week1**
-  - [Moore's Law](ConcurrencyInGo/Week1/mooreLaw.pdf)
-
 - **Week2**
-  - [Race Condition](ConcurrencyInGo/Week2/race.go)
+  - [Race Condition](Course3/W2/routine.go)
 
 - **Week3**
-  - [Distributed Sorting](ConcurrencyInGo/Week3/distributed_sorting.go)
+  - [Distributed Sorting](Course3/W3/goRoutine_sort.go)
 
 - **Week4**
-  - [Dining Philosopher with Host Moderation](ConcurrencyInGo/Week4/diningPhilosophers.go)
+  - [Dining Philosopher with Host Moderation](Course3/W4/chopstick.go)
 
 ### Certificate
 
-![Certificate](https://www.coursera.org/account/accomplishments/certificate/97ALD9UYRNZR)
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~97ALD9UYRNZR/CERTIFICATE_LANDING_PAGE~97ALD9UYRNZR.jpeg)
 
 Functions, Methods, Interfaces in Go
 ------------------------------------
-### Notes
 
-- [Function Types](Functions,Methods,Interfaces%20in%20Go/Week2/FunctionTypes.md)
-- [Function as return type](Functions,Methods,Interfaces%20in%20Go/Week2/ReturningFunctions.md)
-- [Variadic and Deferred Functions](Functions,Methods,Interfaces%20in%20Go/Week2/variadicAndDeferred.md)
-- [Object Oriented Programming](Functions,Methods,Interfaces%20in%20Go/Week3/ObjectOrientedProgramming.md)
-  
 ### Assignments
 
 - **Week1**
-  - [Bubble Sort](Functions,Methods,Interfaces%20in%20Go/Week1/bubbleSort.go)
+  - [Bubble Sort](Course2/W1/buble_sort.go)
 
 - **Week2**
-  - [Linear Kinetics](Functions,Methods,Interfaces%20in%20Go/Week2/LinearKinetics.go)
+  - [calculate displacement](Course2/W2/calculate_displacement.go)
 
 - **Week3**
-  - [Problem Statement](Functions,Methods,Interfaces%20in%20Go/Week3/problemStatement.md)
-  - [Solution - Methods](Functions,Methods,Interfaces%20in%20Go/Week3/week3.go)
+  - [animals](Course2/W3/animals.go)
 
 - **Week4**
-  - [Problem Statement](Functions,Methods,Interfaces%20in%20Go/Week4/problemStatement.md)
-  - [Solution - Interfaces](Functions,Methods,Interfaces%20in%20Go/Week4/interfaces.go)
+  - [animal Interfaces](Course2/W4/animals_interface.go)
 
 ### Certificate
 
-![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~99GPSXAGSZRF/CERTIFICATE_LANDING_PAGE~99GPSXAGSZRF.jpeg)
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5NMJLJKLCFM6/CERTIFICATE_LANDING_PAGE~5NMJLJKLCFM6.jpeg)
   
 Getting started with Go
 ------------------
 
 ### Assignments
+
 - **Week1** 
-  - [Hello World](ProgrammingInGo/Week1/main.go)
+  - [Hello World](Course1/weak1/hello.go)
     
 - **Week2**
-  - [FIndian](ProgrammingInGo/Week2/findian/findian.go)
-  - [Trunc](ProgrammingInGo/Week2/trunc/main.go)
+  - [FIndian](Course1/weak2/2/findian.go)
+  - [Trunc](Course1/weak2/1/trunc.go)
     
 - **Week3**
-  - [Slice](ProgrammingInGo/Week3/slice.go)
+  - [Slice](Course1/weak3/slice.go)
 
 - **Week4**
-    - [Make JSON](ProgrammingInGo/Week4/makejson.go)
-    - [File Read](ProgrammingInGo/Week4/read.go)
+    - [Make JSON](Course1/weak4/1/makejson.go)
+    - [File Read](Course1/weak4/2/read.go
     
 ### Certificate
-![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RX3EQL3DX53K/CERTIFICATE_LANDING_PAGE~RX3EQL3DX53K.jpeg)
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W3X7PBB7G3VH/CERTIFICATE_LANDING_PAGE~W3X7PBB7G3VH.jpeg)
     
