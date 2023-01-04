@@ -61,7 +61,7 @@ Getting started with Go
 
 - **Week4**
     - [Make JSON](Course1/weak4/1/makejson.go)
-    - [File Read](Course1/weak4/2/read.go
+    - [File Read](Course1/weak4/2/read.go)
     
 ### Certificate
 ![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W3X7PBB7G3VH/CERTIFICATE_LANDING_PAGE~W3X7PBB7G3VH.jpeg)
